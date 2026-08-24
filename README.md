@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?longCache=true" alt="CC0 1.0 License">
   </a>
 </p>
-<br>
 
 ## Motivation
 
