@@ -1,0 +1,1255 @@
+[
+  {
+    "name": "Awesome Serif",
+    "designer": "Nicky Laatz",
+    "category": "Serif",
+    "description": "A multi-weight, multi-height display serif family with matching regular and italic styles.",
+    "recommendedFor": [
+      "Branding",
+      "Editorial Design",
+      "Packaging",
+      "Social Media"
+    ],
+    "tags": [
+      "Display",
+      "High Contrast",
+      "Editorial",
+      "Elegant"
+    ],
+    "license": {
+      "name": "Nicky Laatz End User License Agreement",
+      "id": "LicenseRef-Nicky-Laatz-EULA",
+      "url": "https://nickylaatz.com/eula",
+      "access": "Paid",
+      "notes": "Commercial use requires the appropriate purchased license."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://nickylaatz.com/shop/308-awesome-serif-family",
+    "preview": {
+      "url": "https://nickylaatz.com/images/products/308/preview/awesomemn--3210_preview.jpg",
+      "source": "https://nickylaatz.com/shop/308-awesome-serif-family"
+    },
+    "similarFonts": [
+      "Recoleta",
+      "Canela",
+      "Cormorant Garamond"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Axiforma",
+    "designer": "Galin Kastelov",
+    "category": "Sans Serif",
+    "description": "A geometric sans serif family with rounded construction, open shapes, and 20 upright and italic styles.",
+    "recommendedFor": [
+      "Brand Identity",
+      "UI Design",
+      "Editorial Design",
+      "Web Design"
+    ],
+    "tags": [
+      "Geometric",
+      "Rounded",
+      "Wide Family",
+      "Contemporary"
+    ],
+    "license": {
+      "name": "Kastelov Commercial License",
+      "id": "LicenseRef-Kastelov-Commercial",
+      "url": "https://www.myfonts.com/collections/axiforma-font-kastelov",
+      "access": "Paid",
+      "notes": "Commercial use is permitted under the license purchased for the intended medium."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://www.myfonts.com/collections/axiforma-font-kastelov",
+    "preview": {
+      "url": "https://cdn.myfonts.net/cdn-cgi/image/width=1200,height=630,fit=contain,format=auto/images/pim/10000/229535_16c19c07362d3af78e90d72a94d8a28a.png",
+      "source": "https://www.myfonts.com/collections/axiforma-font-kastelov"
+    },
+    "similarFonts": [
+      "Circular",
+      "Avenir",
+      "Poppins"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Berkeley Mono",
+    "designer": "Sam Ratcliffe",
+    "category": "Monospace",
+    "description": "A precise fixed-width family inspired by the typography and interfaces of early personal computing.",
+    "recommendedFor": [
+      "Code",
+      "Terminals",
+      "Data Displays",
+      "Technical Branding"
+    ],
+    "tags": [
+      "Monospace",
+      "Technical",
+      "Retro Computing",
+      "Four Styles"
+    ],
+    "license": {
+      "name": "U.S. Graphics Commercial License",
+      "id": "LicenseRef-US-Graphics-Commercial",
+      "url": "https://usgraphics.com/products/berkeley-mono",
+      "access": "Paid",
+      "notes": "Commercial use requires the appropriate purchased license."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://usgraphics.com/products/berkeley-mono",
+    "preview": {
+      "url": "https://cdn.usgraphics.com/xcom/TX-02-xcom-card.png",
+      "source": "https://usgraphics.com/products/berkeley-mono"
+    },
+    "similarFonts": [
+      "JetBrains Mono",
+      "IBM Plex Mono",
+      "SF Mono"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Be Vietnam Pro",
+    "designer": "Lam Bao, Tony Le, VietAnh Nguyen",
+    "category": "Sans Serif",
+    "description": "A contemporary sans serif designed for clear Vietnamese and Latin typography across digital products and editorial layouts.",
+    "recommendedFor": [
+      "Multilingual Design",
+      "UI Design",
+      "Web Design",
+      "Editorial Text"
+    ],
+    "tags": [
+      "Vietnamese",
+      "Contemporary",
+      "Screen",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://fonts.google.com/specimen/Be+Vietnam+Pro",
+    "preview": {
+      "url": "preview/be-vietnam-pro.png",
+      "source": "https://fonts.google.com/specimen/Be+Vietnam+Pro"
+    },
+    "similarFonts": [
+      "Noto Sans",
+      "Inter",
+      "IBM Plex Sans"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Bricolage Grotesque",
+    "designer": "Mathieu Triay",
+    "category": "Sans Serif",
+    "description": "An expressive variable sans that shifts from characterful compressed styles to calmer text styles at smaller optical sizes.",
+    "recommendedFor": [
+      "Brand Identity",
+      "Editorial Headlines",
+      "Web Design",
+      "Campaigns"
+    ],
+    "tags": [
+      "Grotesque",
+      "Variable",
+      "Expressive",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://fonts.google.com/specimen/Bricolage+Grotesque",
+    "preview": {
+      "url": "https://ateliertriay.github.io/bricolage/socials/card.png",
+      "source": "https://ateliertriay.github.io/bricolage/"
+    },
+    "similarFonts": [
+      "Archivo",
+      "Anybody",
+      "Roboto Flex"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Bunch",
+    "designer": "Cristi Bordeianu, Andrei Robu",
+    "category": "Sans Serif",
+    "description": "A bold grotesque family with compact proportions, heavy shapes, and enough weights for both headlines and supporting text.",
+    "recommendedFor": [
+      "Brand Identity",
+      "Headlines",
+      "Posters",
+      "Campaigns"
+    ],
+    "tags": [
+      "Grotesque",
+      "Bold",
+      "Compact",
+      "Variable"
+    ],
+    "license": {
+      "name": "Typeverything Commercial License",
+      "id": "LicenseRef-Typeverything-Commercial",
+      "url": "https://typeverything.com/bunch",
+      "access": "Paid",
+      "notes": "Commercial use requires the appropriate purchased license."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://typeverything.com/bunch",
+    "preview": {
+      "url": "https://substack-post-media.s3.amazonaws.com/public/images/e7881ce8-e440-4ca2-9c55-b2642c7d5343_1401x527.png",
+      "source": "https://typeverything.substack.com/p/fonts-february-2023"
+    },
+    "similarFonts": [
+      "Monument Grotesk",
+      "Druk",
+      "Archivo Black"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Caros",
+    "designer": "Hyun-Seung Lee",
+    "category": "Sans Serif",
+    "description": "A clean geometric sans serif family with nine weights and matching italics.",
+    "recommendedFor": [
+      "Branding",
+      "Web Design",
+      "Editorial Design",
+      "Screen Displays"
+    ],
+    "tags": [
+      "Geometric",
+      "Clean",
+      "Cyrillic",
+      "Versatile"
+    ],
+    "license": {
+      "name": "cretype Commercial License",
+      "id": "LicenseRef-cretype-Commercial",
+      "url": "https://www.myfonts.com/collections/caros-font-cretype",
+      "access": "Paid",
+      "notes": "Commercial use is permitted under the license purchased for the intended medium."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://www.myfonts.com/collections/caros-font-cretype",
+    "preview": {
+      "url": "https://cdn.myfonts.net/cdn-cgi/image/width=1200,height=630,fit=contain,format=auto/images/pim/10000/228924_4e8ebb7a77d056814194844f7bf638ce.png",
+      "source": "https://www.myfonts.com/collections/caros-font-cretype"
+    },
+    "similarFonts": [
+      "Avenir",
+      "Futura",
+      "Montserrat"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Coolvetica",
+    "designer": "Ray Larabie",
+    "category": "Sans Serif",
+    "description": "A tightly spaced display sans inspired by 1970s custom logo lettering.",
+    "recommendedFor": [
+      "Logos",
+      "Branding",
+      "Headlines",
+      "Posters"
+    ],
+    "tags": [
+      "Display",
+      "Retro",
+      "Tight Spacing",
+      "Wide Family"
+    ],
+    "license": {
+      "name": "Typodermic Commercial License",
+      "id": "LicenseRef-Typodermic-Commercial",
+      "url": "https://typodermicfonts.com/license/",
+      "access": "Paid",
+      "notes": "Commercial use is permitted under the license purchased for the intended medium."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://typodermicfonts.com/coolvetica/",
+    "preview": {
+      "url": "https://cdn.myfonts.net/cdn-cgi/image/width=1200,height=630,fit=contain,format=auto/images/pim/10004/g0lEHS95KOoHQI2SXQrGbmAt_1d0abd974858865b63858286e0d5d84c.png",
+      "source": "https://www.myfonts.com/collections/coolvetica-font-typodermic"
+    },
+    "similarFonts": [
+      "Helvetica",
+      "ITC Avant Garde Gothic",
+      "Futura"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Darker Grotesque",
+    "designer": "Gabriel Lam, VietAnh Nguyen",
+    "category": "Sans Serif",
+    "description": "A contemporary grotesque with compact spacing and unconventional details influenced by postmodern and brutalist typography.",
+    "recommendedFor": [
+      "Brand Identity",
+      "Editorial Design",
+      "Web Design",
+      "Posters"
+    ],
+    "tags": [
+      "Grotesque",
+      "Brutalist",
+      "Variable",
+      "Vietnamese"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://fonts.google.com/specimen/Darker+Grotesque",
+    "preview": {
+      "url": "preview/darker-grotesque.png",
+      "source": "https://fonts.google.com/specimen/Darker+Grotesque"
+    },
+    "similarFonts": [
+      "Space Grotesk",
+      "Neue Haas Grotesk",
+      "Helvetica Neue"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "DM Mono",
+    "designer": "Colophon Foundry",
+    "category": "Monospace",
+    "description": "A compact fixed-width typeface designed for DeepMind, with reduced contrast and less geometric shapes than DM Sans.",
+    "recommendedFor": [
+      "Code",
+      "Data Displays",
+      "Technical Interfaces",
+      "Editorial Details"
+    ],
+    "tags": [
+      "Monospace",
+      "Technical",
+      "Compact",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://fonts.google.com/specimen/DM+Mono",
+    "preview": {
+      "url": "preview/dm-mono.png",
+      "source": "https://fonts.google.com/specimen/DM+Mono"
+    },
+    "similarFonts": [
+      "IBM Plex Mono",
+      "Space Mono",
+      "Roboto Mono"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "DM Sans",
+    "designer": "Colophon Foundry",
+    "category": "Sans Serif",
+    "description": "A low-contrast geometric sans designed to stay clear at small text sizes and across digital interfaces.",
+    "recommendedFor": [
+      "UI Design",
+      "Web Design",
+      "Mobile Apps",
+      "Body Text"
+    ],
+    "tags": [
+      "Geometric",
+      "UI",
+      "Optical Size",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://fonts.google.com/specimen/DM+Sans",
+    "preview": {
+      "url": "preview/dm-sans.png",
+      "source": "https://fonts.google.com/specimen/DM+Sans"
+    },
+    "similarFonts": [
+      "Inter",
+      "Manrope",
+      "Geist"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "DM Serif Display",
+    "designer": "Colophon Foundry",
+    "category": "Serif",
+    "description": "A high-contrast display serif derived from Source Serif Pro and commissioned for the DM font family.",
+    "recommendedFor": [
+      "Editorial Headlines",
+      "Branding",
+      "Web Headers",
+      "Invitations"
+    ],
+    "tags": [
+      "Display",
+      "High Contrast",
+      "Editorial",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://fonts.google.com/specimen/DM+Serif+Display",
+    "preview": {
+      "url": "https://raw.githubusercontent.com/googlefonts/dm-fonts/main/Documentation/image3.png",
+      "source": "https://github.com/googlefonts/dm-fonts"
+    },
+    "similarFonts": [
+      "Playfair Display",
+      "Bodoni Moda",
+      "Cormorant Garamond"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Figtree",
+    "designer": "Erik Kennedy",
+    "category": "Sans Serif",
+    "description": "A friendly geometric sans serif with open shapes and a broad weight range made to stay clear on screens.",
+    "recommendedFor": [
+      "UI Design",
+      "Web Design",
+      "Presentations",
+      "Body Text"
+    ],
+    "tags": [
+      "Geometric",
+      "Friendly",
+      "Variable",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://fonts.google.com/specimen/Figtree",
+    "preview": {
+      "url": "preview/figtree.png",
+      "source": "https://www.erikdkennedy.com/projects/figtree.html"
+    },
+    "similarFonts": [
+      "Inter",
+      "DM Sans",
+      "Manrope"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Geist",
+    "designer": "Andres Briganti, Mateo Zaragoza, Guillermo Rauch, Evil Rabbit, Jose Rago, Facundo Santana",
+    "category": "Sans Serif",
+    "description": "A clean variable sans created for Vercel with compact spacing and a neutral Swiss-influenced structure.",
+    "recommendedFor": [
+      "UI Design",
+      "SaaS",
+      "Developer Tools",
+      "Web Design"
+    ],
+    "tags": [
+      "UI",
+      "Variable",
+      "Swiss",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://vercel.com/font",
+    "preview": {
+      "url": "preview/geist.png",
+      "source": "https://vercel.com/font"
+    },
+    "similarFonts": [
+      "Inter",
+      "SF Pro",
+      "Helvetica Now"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Google Sans",
+    "designer": "Google LLC",
+    "category": "Sans Serif",
+    "description": "A geometric sans derived from Product Sans and adapted for broader use across Google's products, advertising, and marketing.",
+    "recommendedFor": [
+      "Google Products",
+      "Product Interfaces",
+      "Brand Systems",
+      "Marketing"
+    ],
+    "tags": [
+      "Geometric",
+      "Variable",
+      "Corporate",
+      "Restricted"
+    ],
+    "license": {
+      "name": "Google Sans Usage Restrictions",
+      "id": "LicenseRef-Google-Sans-Restricted",
+      "url": "https://github.com/googlefonts/googlesans#license",
+      "access": "Restricted",
+      "notes": "Google states that Google Sans is not offered as an open-source font. Do not use it in third-party work without authorization from Google."
+    },
+    "commercial": false,
+    "variable": true,
+    "download": "https://fonts.google.com/specimen/Google+Sans",
+    "preview": {
+      "url": "preview/google-sans.png",
+      "source": "https://fonts.google.com/specimen/Google+Sans"
+    },
+    "similarFonts": [
+      "Product Sans",
+      "DM Sans",
+      "Circular"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Helvetica Neue",
+    "designer": "Max Miedinger, Linotype Design Studio",
+    "category": "Sans Serif",
+    "description": "A systematic reworking of Helvetica with a unified structure and an extensive range of styles.",
+    "recommendedFor": [
+      "Brand Identity",
+      "Editorial Design",
+      "Wayfinding",
+      "Corporate Communications"
+    ],
+    "tags": [
+      "Neo-Grotesque",
+      "Swiss",
+      "Neutral",
+      "Corporate"
+    ],
+    "license": {
+      "name": "Linotype Commercial License",
+      "id": "LicenseRef-Linotype-Commercial",
+      "url": "https://www.myfonts.com/collections/neue-helvetica-font-linotype",
+      "access": "Paid",
+      "notes": "Commercial use is permitted under the license purchased for the intended medium."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://www.myfonts.com/collections/neue-helvetica-font-linotype",
+    "preview": {
+      "url": "https://cdn.myfonts.net/cdn-cgi/image/width=1200,height=630,fit=contain,format=auto/images/pim/10000/269796_2bd365de83cb39177eaa2f76d55db6a4.png",
+      "source": "https://www.myfonts.com/collections/neue-helvetica-font-linotype"
+    },
+    "similarFonts": [
+      "Helvetica Now",
+      "Arial",
+      "Nimbus Sans"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "IBM Plex Sans",
+    "designer": "Mike Abbink, Bold Monday",
+    "category": "Sans Serif",
+    "description": "A practical corporate sans serif that combines engineered precision with warmer, human details across a large family.",
+    "recommendedFor": [
+      "Product Design",
+      "Editorial Design",
+      "Data Interfaces",
+      "Brand Systems"
+    ],
+    "tags": [
+      "Corporate",
+      "Variable",
+      "Multilingual",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://fonts.google.com/specimen/IBM+Plex+Sans",
+    "preview": {
+      "url": "preview/ibm-plex-sans.png",
+      "source": "https://github.com/googlefonts/plex"
+    },
+    "similarFonts": [
+      "Inter",
+      "Source Sans 3",
+      "Helvetica Neue"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Instrument Sans",
+    "designer": "Rodrigo Fuenzalida, Jordan Egstad",
+    "category": "Sans Serif",
+    "description": "A variable sans with adjustable width, practical proportions, and enough personality for both interfaces and headlines.",
+    "recommendedFor": [
+      "Brand Identity",
+      "UI Design",
+      "Editorial Design",
+      "Portfolio Websites"
+    ],
+    "tags": [
+      "Variable",
+      "Grotesque",
+      "Width Axis",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://fonts.google.com/specimen/Instrument+Sans",
+    "preview": {
+      "url": "preview/instrument-sans.png",
+      "source": "https://fonts.google.com/specimen/Instrument+Sans"
+    },
+    "similarFonts": [
+      "Inter",
+      "Neue Montreal",
+      "Helvetica Neue"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Instrument Serif",
+    "designer": "Rodrigo Fuenzalida, Jordan Egstad",
+    "category": "Serif",
+    "description": "A condensed display serif created for the Instrument brand as a contemporary take on old-style serifs.",
+    "recommendedFor": [
+      "Branding",
+      "Editorial Headlines",
+      "Campaigns",
+      "Portfolio Websites"
+    ],
+    "tags": [
+      "Display",
+      "Condensed",
+      "Old Style",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://fonts.google.com/specimen/Instrument+Serif",
+    "preview": {
+      "url": "https://raw.githubusercontent.com/Instrument/instrument-serif/main/docs/1-header.gif",
+      "source": "https://github.com/Instrument/instrument-serif"
+    },
+    "similarFonts": [
+      "Cormorant Garamond",
+      "DM Serif Display",
+      "Iowan Old Style"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Inter",
+    "designer": "Rasmus Andersson",
+    "category": "Sans Serif",
+    "description": "A highly legible typeface designed for computer screens and modern interfaces.",
+    "recommendedFor": [
+      "UI Design",
+      "SaaS",
+      "Mobile Apps",
+      "Web"
+    ],
+    "tags": [
+      "UI",
+      "Web",
+      "App",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://rsms.me/inter/",
+    "preview": {
+      "url": "https://rsms.me/inter/res/share.png",
+      "source": "https://rsms.me/inter/"
+    },
+    "similarFonts": [
+      "SF Pro",
+      "Helvetica Neue"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "JetBrains Mono",
+    "designer": "JetBrains, Philipp Nurullin, Konstantin Bulenkov",
+    "category": "Monospace",
+    "description": "A fixed-width variable font made for code, with tall lowercase letters and optional ligatures for common programming symbols.",
+    "recommendedFor": [
+      "Code",
+      "Developer Tools",
+      "Terminals",
+      "Technical Documentation"
+    ],
+    "tags": [
+      "Monospace",
+      "Coding",
+      "Ligatures",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://www.jetbrains.com/lp/mono/",
+    "preview": {
+      "url": "preview/jetbrains-mono.png",
+      "source": "https://www.jetbrains.com/lp/mono/"
+    },
+    "similarFonts": [
+      "Berkeley Mono",
+      "IBM Plex Mono",
+      "Fira Code"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Metropolis",
+    "designer": "Chris Simpson",
+    "category": "Sans Serif",
+    "description": "A minimalist geometric sans serif optimized to remain readable at small sizes while retaining impact in large display text.",
+    "recommendedFor": [
+      "Brand Identity",
+      "Web Design",
+      "Presentations",
+      "Headlines"
+    ],
+    "tags": [
+      "Geometric",
+      "Modern",
+      "Wide Family",
+      "Open Source"
+    ],
+    "license": {
+      "name": "The Unlicense",
+      "id": "Unlicense",
+      "url": "https://github.com/typehaus/metropolis/blob/main/license.md",
+      "access": "Free",
+      "notes": "The typeface is released into the public domain for commercial and non-commercial use."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://github.com/typehaus/metropolis",
+    "preview": {
+      "url": "preview/metropolis.png",
+      "source": "https://typehaus.org/metropolis"
+    },
+    "similarFonts": [
+      "Montserrat",
+      "Gotham",
+      "Proxima Nova"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Myopic",
+    "designer": "Brian Einarsen",
+    "category": "Display",
+    "description": "A condensed pixel display font with modular shapes and a deliberately early-digital, techno appearance.",
+    "recommendedFor": [
+      "Posters",
+      "Experimental Web Design",
+      "Album Artwork",
+      "Technology Branding"
+    ],
+    "tags": [
+      "Pixel",
+      "Techno",
+      "Condensed",
+      "Display"
+    ],
+    "license": {
+      "name": "T-26 Commercial License",
+      "id": "LicenseRef-T26-Commercial",
+      "url": "https://www.myfonts.com/collections/myopic-font-t-26",
+      "access": "Paid",
+      "notes": "Commercial use is permitted under the license purchased for the intended medium."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://www.myfonts.com/collections/myopic-font-t-26",
+    "preview": {
+      "url": "https://sig.monotype.com/render/105/font/41281a54b6eae5b36e84bd7ecb559510?rt=Myopic&rs=96&w=1200&sc=2&fg=000000&bg=FFFFFF&userLang=en&render_mode=new",
+      "source": "https://www.myfonts.com/collections/myopic-font-t-26"
+    },
+    "similarFonts": [
+      "Silkscreen",
+      "Pixel Operator",
+      "OCR-A"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Neue Montreal",
+    "designer": "Mathieu Desjardins",
+    "category": "Sans Serif",
+    "description": "A versatile grotesque with a wide weight range, restrained character, and dedicated styles for smaller text.",
+    "recommendedFor": [
+      "Brand Identity",
+      "UI Design",
+      "Editorial Design",
+      "Web Design"
+    ],
+    "tags": [
+      "Grotesque",
+      "Variable",
+      "Multilingual",
+      "Workhorse"
+    ],
+    "license": {
+      "name": "Pangram Pangram Commercial License",
+      "id": "LicenseRef-Pangram-Pangram-Commercial",
+      "url": "https://pangrampangram.com/products/neue-montreal",
+      "access": "Paid",
+      "notes": "Commercial use requires the appropriate purchased license."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://pangrampangram.com/products/neue-montreal",
+    "preview": {
+      "url": "https://cdn.shopify.com/s/files/1/2642/6578/files/Aa-NeueMontreal.jpg?v=1777375408",
+      "source": "https://pangrampangram.com/products/neue-montreal"
+    },
+    "similarFonts": [
+      "Helvetica Neue",
+      "Suisse Intl",
+      "Neue Haas Grotesk"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Neurial Grotesk",
+    "designer": "Deni Anggara",
+    "category": "Sans Serif",
+    "description": "A compact neo-grotesk with a tall lowercase height, modernist structure, and alternate letterforms for added personality.",
+    "recommendedFor": [
+      "Brand Identity",
+      "Corporate Design",
+      "Editorial Design",
+      "Web Design"
+    ],
+    "tags": [
+      "Neo-Grotesque",
+      "Modernist",
+      "Compact",
+      "Tall X-Height"
+    ],
+    "license": {
+      "name": "MyFonts Commercial License",
+      "id": "LicenseRef-MyFonts-Commercial",
+      "url": "https://www.myfonts.com/collections/neurial-grotesk-font-indian-type-foundry",
+      "access": "Paid",
+      "notes": "Commercial use is permitted under the license purchased for the intended medium."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://www.myfonts.com/collections/neurial-grotesk-font-indian-type-foundry",
+    "preview": {
+      "url": "https://cdn.myfonts.net/cdn-cgi/image/width=1200,height=630,fit=contain,format=auto/images/pim/10000/258940_bf9ea5a1719816f7de74cc3dd4f2eefd.png",
+      "source": "https://www.myfonts.com/collections/neurial-grotesk-font-indian-type-foundry"
+    },
+    "similarFonts": [
+      "Neue Montreal",
+      "Helvetica Neue",
+      "Suisse Intl"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Overused Grotesk",
+    "designer": "Random Maerks",
+    "category": "Sans Serif",
+    "description": "A quirky multilingual neo-grotesk that borrows familiar Helvetica traits while adding less serious, more distinctive details.",
+    "recommendedFor": [
+      "Brand Identity",
+      "Web Design",
+      "Editorial Design",
+      "Posters"
+    ],
+    "tags": [
+      "Neo-Grotesque",
+      "Variable",
+      "Multilingual",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://github.com/RandomMaerks/Overused-Grotesk",
+    "preview": {
+      "url": "preview/overused-grotesk.png",
+      "source": "https://randommaerks.github.io/overused-grotesk"
+    },
+    "similarFonts": [
+      "Helvetica Neue",
+      "Arial",
+      "Nimbus Sans"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Poppins",
+    "designer": "Indian Type Foundry, Jonny Pinhorn, Ninad Kale",
+    "category": "Sans Serif",
+    "description": "A geometric sans built from circular forms, with matching Latin and Devanagari designs across nine weights and italics.",
+    "recommendedFor": [
+      "Brand Identity",
+      "Web Design",
+      "Presentations",
+      "Headlines"
+    ],
+    "tags": [
+      "Geometric",
+      "Devanagari",
+      "Wide Family",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://fonts.google.com/specimen/Poppins",
+    "preview": {
+      "url": "preview/poppins.png",
+      "source": "https://fonts.google.com/specimen/Poppins"
+    },
+    "similarFonts": [
+      "Montserrat",
+      "Axiforma",
+      "Circular"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Plus Jakarta Sans",
+    "designer": "Tokotype",
+    "category": "Sans Serif",
+    "description": "A contemporary geometric sans serif with clean proportions, open shapes, and a wide range of weights for digital and brand work.",
+    "recommendedFor": [
+      "UI Design",
+      "Brand Identity",
+      "Web Design",
+      "Presentations"
+    ],
+    "tags": [
+      "Geometric",
+      "Contemporary",
+      "Variable",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://fonts.google.com/specimen/Plus+Jakarta+Sans",
+    "preview": {
+      "url": "preview/plus-jakarta-sans.png",
+      "source": "https://github.com/tokotype/PlusJakartaSans"
+    },
+    "similarFonts": [
+      "Poppins",
+      "Circular",
+      "DM Sans"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Rethink Sans",
+    "designer": "Hans Thiessen",
+    "category": "Sans Serif",
+    "description": "A contemporary variable sans serif with practical proportions and distinctive details that keep everyday typography lively.",
+    "recommendedFor": [
+      "Brand Identity",
+      "UI Design",
+      "Web Design",
+      "Editorial Design"
+    ],
+    "tags": [
+      "Contemporary",
+      "Variable",
+      "Versatile",
+      "Open Source"
+    ],
+    "license": {
+      "name": "SIL Open Font License 1.1",
+      "id": "OFL-1.1",
+      "url": "https://openfontlicense.org/",
+      "access": "Free",
+      "notes": "Commercial use, modification, and redistribution are allowed under OFL-1.1."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://fonts.google.com/specimen/Rethink+Sans",
+    "preview": {
+      "url": "preview/rethink-sans.png",
+      "source": "https://github.com/hans-thiessen/Rethink-Sans"
+    },
+    "similarFonts": [
+      "DM Sans",
+      "Figtree",
+      "Inter"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "SF Pro",
+    "designer": "Apple Design Team",
+    "category": "Sans Serif",
+    "description": "Apple's neutral system font with nine weights, four widths, and variable optical sizes tuned for interface legibility.",
+    "recommendedFor": [
+      "Apple Platform UI",
+      "App Mock-ups",
+      "Product Interfaces",
+      "Prototyping"
+    ],
+    "tags": [
+      "UI",
+      "System Font",
+      "Variable",
+      "Restricted"
+    ],
+    "license": {
+      "name": "Apple Font License",
+      "id": "LicenseRef-Apple-Font-License",
+      "url": "https://developer.apple.com/fonts/",
+      "access": "Restricted",
+      "notes": "Apple limits use of the downloadable font to eligible Apple-platform interface mock-ups and related purposes. Check the license included with the download."
+    },
+    "commercial": false,
+    "variable": true,
+    "download": "https://developer.apple.com/fonts/",
+    "preview": {
+      "url": "preview/sf-pro.png",
+      "source": "https://developer.apple.com/fonts/"
+    },
+    "similarFonts": [
+      "Inter",
+      "Helvetica Neue",
+      "Geist"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Switzer",
+    "designer": "Jeremie Hornus",
+    "category": "Sans Serif",
+    "description": "A classic, timeless neo-grotesk family with nine upright weights, matching italics, and broad utility across print and screens.",
+    "recommendedFor": [
+      "Brand Identity",
+      "Editorial Design",
+      "Web Design",
+      "Posters"
+    ],
+    "tags": [
+      "Neo-Grotesque",
+      "Variable",
+      "Wide Family",
+      "Free Commercial"
+    ],
+    "license": {
+      "name": "ITF Free Font License",
+      "id": "LicenseRef-ITF-Free-Font-License",
+      "url": "https://www.fontshare.com/licenses/itf-ffl",
+      "access": "Free",
+      "notes": "Commercial use is allowed under the ITF Free Font License; review its redistribution and modification terms."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://www.fontshare.com/fonts/switzer",
+    "preview": {
+      "url": "preview/switzer.png",
+      "source": "https://www.fontshare.com/fonts/switzer"
+    },
+    "similarFonts": [
+      "Helvetica Neue",
+      "Neue Montreal",
+      "Suisse Intl"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Tusker Grotesk",
+    "designer": "Lewis McGuffie",
+    "category": "Display",
+    "description": "A 30-style condensed headline family built for forceful, high-impact typography at large sizes.",
+    "recommendedFor": [
+      "Headlines",
+      "Posters",
+      "Campaigns",
+      "Sports Branding"
+    ],
+    "tags": [
+      "Display",
+      "Condensed",
+      "Heavy",
+      "High Impact"
+    ],
+    "license": {
+      "name": "MyFonts Commercial License",
+      "id": "LicenseRef-MyFonts-Commercial",
+      "url": "https://www.myfonts.com/collections/tusker-grotesk-font-lewis-mcguffie-type",
+      "access": "Paid",
+      "notes": "Commercial use is permitted under the license purchased for the intended medium."
+    },
+    "commercial": true,
+    "variable": false,
+    "download": "https://www.myfonts.com/collections/tusker-grotesk-font-lewis-mcguffie-type",
+    "preview": {
+      "url": "https://cdn.myfonts.net/cdn-cgi/image/width=1200,height=630,fit=contain,format=auto/images/pim/10000/249696_a17c3a8368555f5f8244b364b4b58c26.png",
+      "source": "https://www.myfonts.com/collections/tusker-grotesk-font-lewis-mcguffie-type"
+    },
+    "similarFonts": [
+      "Impact",
+      "Haettenschweiler",
+      "Anton"
+    ],
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "name": "Youth",
+    "designer": "Jan Novák",
+    "category": "Sans Serif",
+    "description": "A geometric sans with rounded corners, lively proportions, and stylistic alternates rooted in phototypesetting-era forms.",
+    "recommendedFor": [
+      "Brand Identity",
+      "Headlines",
+      "Posters",
+      "Editorial Leads"
+    ],
+    "tags": [
+      "Geometric",
+      "Display",
+      "Rounded",
+      "All Caps"
+    ],
+    "license": {
+      "name": "AllCaps End User Licence Agreement",
+      "id": "LicenseRef-AllCaps-EULA",
+      "url": "https://www.allcapstype.com/licencing#user-content-end-user-licence-agreement-eula",
+      "access": "Paid",
+      "notes": "Published and commercial work requires a purchased license; some uses require extensions."
+    },
+    "commercial": true,
+    "variable": true,
+    "download": "https://www.allcapstype.com/typefaces/youth",
+    "preview": {
+      "url": "https://cdn.allcapstype.com/media/youth_background_desktop.jpg",
+      "source": "https://www.allcapstype.com/typefaces/youth"
+    },
+    "similarFonts": [
+      "ITC Avant Garde Gothic",
+      "Futura",
+      "Bauhaus 93"
+    ],
+    "lastVerified": "2026-08-25"
+  }
+]
