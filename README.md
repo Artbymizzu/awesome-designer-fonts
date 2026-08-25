@@ -14,11 +14,17 @@
 
 
 <p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
   <a href="https://github.com/choucisan/awesome-designer-fonts/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?longCache=true" alt="CC0 1.0 License">
+  </a>
+  <a href="https://choucisan.github.io/collections/awesome_designer_fonts">
+    <img src="https://img.shields.io/badge/Blog-Visit-blue.svg?longCache=true" alt="Blog">
   </a>
 </p>
 
